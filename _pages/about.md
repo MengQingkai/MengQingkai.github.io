@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working at Zeus Lab, Beihang University. Before that, I received my Ph.D. from Tsinghua University in June 2022, under the supervision of [Prof. Fengyuan Ren](https://www.cs.tsinghua.edu.cn/info/1126/3585.htm). From Sep. 2019 to Oct. 2020, I visited the Department of Computer Sciences in the University of Wisconsin-Madison, under the supervison of [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/).
+I'm currently working Beihang University, with [Prof. Hongbin Luo](https://scse.buaa.edu.cn/info/1342/8007.htm). Before that, I received my Ph.D. from Tsinghua University in June 2022, under the supervision of [Prof. Fengyuan Ren](https://www.cs.tsinghua.edu.cn/info/1126/3585.htm). From Sep. 2019 to Oct. 2020, I visited the Department of Computer Sciences in the University of Wisconsin-Madison, under the supervison of [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/).
 
 Research Interests
 ======
