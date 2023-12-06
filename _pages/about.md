@@ -56,5 +56,3 @@ Publications
 
 * Wei Li, Xiaohui Luo, Yiran Zhang, **Qingkai Meng**, and Fengyuan Ren, “CrossDBT: An LLVM-Based User-Level Dynamic Binary Translation Emulator”, _Springer European Conference on Parallel Processing (Euro-Par, CCF-B), 2022 **(Best Paper Award)**_
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6XowEGrYZad28ZVVTI8hSkI0E2U0fQs2dAz7OfBy16s"></script>
