@@ -20,18 +20,16 @@ Networking Stack
 Services 
 ======
 
-Technical Review
-----
-* IEEE Transactions on Networking (ToN)
-* IEEE Journal on Selected Areas in Communications (JSAC)
-* IEEE Transactions on Parallel and Distributed Systems (TPDS)
-* ACM European Conference on Computer Systems (EuroSys)
-* ACM Multimedia (MM)
-* ACM Asia-Paciﬁc Workshop on Networking (APNET)
+* **Technical Review**
+  * IEEE Transactions on Networking (ToN)
+  * IEEE Journal on Selected Areas in Communications (JSAC)
+  * IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  * ACM European Conference on Computer Systems (EuroSys)
+  * ACM Multimedia (MM)
+  * ACM Asia-Paciﬁc Workshop on Networking (APNET)
 
-Program Committee Members
-----
-2023: WCNC, ICCC
+* **Program Committee Members**
+  * 2023: WCNC, ICCC
 
 
 Publications 
