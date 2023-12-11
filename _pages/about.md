@@ -34,7 +34,7 @@ Services
 
 Publications 
 ======
-**<\#: corresponding author, &dag>**
+**<\#: corresponding author, \*:co-first author>**
 
 * **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
