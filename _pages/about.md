@@ -29,7 +29,7 @@ Services
   * ACM Asia-Paciﬁc Workshop on Networking (APNET)
 
 * **Program Committee Members**
-  * 2023: WCNC, ICCC
+  * WCNC 2024, ICCC 2023
 
 
 Publications 
