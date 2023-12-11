@@ -32,7 +32,7 @@ Services
   * 2023: WCNC, ICCC
 
 
-Selected Publications 
+Publications 
 ======
 **<\#: co-first or corresponding author>**
 
