@@ -54,7 +54,7 @@ Publications
 
 * <span style="color:red"> **[IWQoS 2022]** </span> **Qingkai Meng**, Fengyuan Ren, Tong Zhang, Danfeng Shan, and Yajun Yang, “Demystifying and Mitigating TCP Capping”, _IEEE/ACM International Symposium on Quality of Service (**IWQoS, CCF-B**), 2022_
 
-* <span style="color:red"> **[Euro-Par 2022 <span style="color:black">Best Paper</span>]** </span> Wei Li, Xiaohui Luo, Yiran Zhang, **Qingkai Meng**, and Fengyuan Ren, “CrossDBT: An LLVM-Based User-Level Dynamic Binary Translation Emulator”, _Springer European Conference on Parallel Processing (**Euro-Par, CCF-B**), 2022 **(Best Paper Award)**_
+* <span style="color:red"> **[Euro-Par 2022 <span style="color:black">Best Paper</span>]** </span> Wei Li, Xiaohui Luo, Yiran Zhang, **Qingkai Meng**, and Fengyuan Ren, “CrossDBT: An LLVM-Based User-Level Dynamic Binary Translation Emulator”, _Springer European Conference on Parallel Processing (**Euro-Par, CCF-B**), 2022_
   
 * <span style="color:red"> **[IWQoS 2021]** </span> **Qingkai Meng**, and Fengyuan Ren, “Lightning: A Practical Building Block for RDMA Transport Control”, _IEEE/ACM International Symposium on Quality of Service (**IWQoS, CCF-B**), 2021_
 
