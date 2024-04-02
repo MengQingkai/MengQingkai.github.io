@@ -36,13 +36,15 @@ Publications
 ======
 **<\#: corresponding author, \*:co-first author>**
 
-* **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
+* <span style="color:red">some **[INFOCOM 2024]** text</span> **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
 * **Qingkai Meng**, Yiran Zhang, Chaolei Hu, Bo Wang, and Fengyuan Ren “Explicit Dropping Notiﬁcation in Data Centers”, _IEEE International Conference on Computer Communications (**INFOCOM, CCF-A**), 2024_
 
 * **Qingkai Meng**, Yiran Zhang, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo, and Fengyuan Ren, “Switch-assistant Loss Recovery for RDMA Transport Control”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2024_
 
-* Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_ 
+* Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
+
+* Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_ 
 
 * Yiran Zhang, **Qingkai Meng#**, Yifan Liu, and Fengyuan Ren, “Revisiting Congestion Detection in Lossless Networks”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2023_
 
