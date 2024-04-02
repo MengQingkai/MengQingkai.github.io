@@ -42,7 +42,7 @@ Publications
 
 * <span style="color:red"> **[ToN 2024]** </span> **Qingkai Meng**, Yiran Zhang, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo, and Fengyuan Ren, “Switch-assistant Loss Recovery for RDMA Transport Control”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2024_
 
-* <span style="color:red"> **[NSDI 2024 <span style="color:red">Corresponding author</span>]** </span> Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
+* <span style="color:red"> **[NSDI 2024 <span style="color:black">Corresponding author</span>]** </span> Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
 
 * <span style="color:red"> **[NSDI Poster 2024 Corresponding author]** </span> Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_
 
