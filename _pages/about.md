@@ -44,7 +44,9 @@ Publications
 
 * <span style="color:red"> **[NSDI 2024 Corresponding author]** </span> Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
 
-* <span style="color:red"> **[NSDI Poster 2024 Corresponding author]** </span> Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_ 
+* <span style="color:red"> **[NSDI Poster 2024 Corresponding author]** </span> Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_
+
+* <span style="color:red"> **[IEEE Network Magazine 2024 Corresponding author]** </span> Zhongjie Chen,  **Qingkai Meng#**, Yiran Zhang, and Fengyuan Ren, “Predictable Host Networking in Data Centers: Challenges, Technologies and Future Directions”, _IEEE Network Magazine (**SCI Q1**), 2024_ 
 
 * <span style="color:red"> **[ToN Corresponding author]** </span> Yiran Zhang, **Qingkai Meng#**, Yifan Liu, and Fengyuan Ren, “Revisiting Congestion Detection in Lossless Networks”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2023_
 
