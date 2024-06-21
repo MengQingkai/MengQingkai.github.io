@@ -36,15 +36,15 @@ Selected Publications
 ======
 **<\#: corresponding author, \*:co-first author>**
 
-* <span style="color:red"> **[INFOCOM 2024]** </span> ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
+* ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
-* <span style="color:red"> **[INFOCOM 2024]** </span> **Qingkai Meng**, Yiran Zhang, Chaolei Hu, Bo Wang, and Fengyuan Ren “Explicit Dropping Notiﬁcation in Data Centers”, _IEEE International Conference on Computer Communications (**INFOCOM, CCF-A**), 2024_
+* ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Yiran Zhang, Chaolei Hu, Bo Wang, and Fengyuan Ren “Explicit Dropping Notiﬁcation in Data Centers”, _IEEE International Conference on Computer Communications (**INFOCOM, CCF-A**), 2024_
 
-* <span style="color:red"> **[ToN 2024]** </span> **Qingkai Meng**, Yiran Zhang, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo, and Fengyuan Ren, “Switch-assistant Loss Recovery for RDMA Transport Control”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2024_
+* ![Static Badge](https://img.shields.io/badge/ToN_2024-34a853) **Qingkai Meng**, Yiran Zhang, Shan Zhang, Zhiyuan Wang, Tong Zhang, Hongbin Luo, and Fengyuan Ren, “Switch-assistant Loss Recovery for RDMA Transport Control”, _IEEE/ACM Transactions on Networking (**ToN, CCF-A**), 2024_
 
-* <span style="color:red"> **[NSDI 2024 <span style="color:black">Corresponding author</span>]** </span> Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
+* ![Static Badge](https://img.shields.io/badge/NSDI_2024-34a853) Yiran Zhang,  **Qingkai Meng#**, Chaolei Hu, and Fengyuan Ren, “Revisiting Congestion Control for Lossless Ethernet”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2024_
 
-* <span style="color:red"> **[NSDI Poster 2024 <span style="color:black">Corresponding author</span>]** </span> Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_
+* ![Static Badge](https://img.shields.io/badge/NSDI_Poster_2024-34a853)  Tao Tong,  **Qingkai Meng#**, Shan Zhang, Zhiyuan Wang, and Hongbin Luo, “When Parallel Permissioned Blockchain Meets Network Congestion in Datacenters”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI Poster, CCF-A**), 2024_
 
 * <span style="color:red"> **[IEEE Network Magazine 2024 <span style="color:black">Corresponding author</span>]** </span> Zhongjie Chen,  **Qingkai Meng#**, Yiran Zhang, and Fengyuan Ren, “Predictable Host Networking in Data Centers: Challenges, Technologies and Future Directions”, _IEEE Network Magazine (**SCI Q1**), 2024_ 
 
