@@ -36,7 +36,7 @@ Selected Publications
 ======
 **<\#: corresponding author, \*:co-first author>**
 
-* <span style="color:red"> **[INFOCOM 2024]** </span> **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
+* <span style="color:red"> **[INFOCOM 2024]** </span> ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
 * <span style="color:red"> **[INFOCOM 2024]** </span> **Qingkai Meng**, Yiran Zhang, Chaolei Hu, Bo Wang, and Fengyuan Ren “Explicit Dropping Notiﬁcation in Data Centers”, _IEEE International Conference on Computer Communications (**INFOCOM, CCF-A**), 2024_
 
