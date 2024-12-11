@@ -36,6 +36,8 @@ Selected Publications
 ======
 **<\#: corresponding author, \*:co-first author>**
 
+* ![Static Badge](https://img.shields.io/badge/NSDI_2025-34a853) Zhongjie Chen\*, **Qingkai Meng\***, ChonLam Lao, Yifan Liu, Fengyuan Ren, Minlan Yu, and Yang Zhou, “eTran: Extensible Kernel Transport with eBPF”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2025_
+
 * ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
 * ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Yiran Zhang, Chaolei Hu, Bo Wang, and Fengyuan Ren “Explicit Dropping Notiﬁcation in Data Centers”, _IEEE International Conference on Computer Communications (**INFOCOM, CCF-A**), 2024_
