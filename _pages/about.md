@@ -24,7 +24,7 @@ Services
   * IEEE Transactions on Networking (ToN)
   * IEEE Journal on Selected Areas in Communications (JSAC)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
-  * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Mobile Computing (TMC)
   * ACM European Conference on Computer Systems (EuroSys)
   * ACM Multimedia (MM)
   * ACM Asia-Paciﬁc Workshop on Networking (APNET)
