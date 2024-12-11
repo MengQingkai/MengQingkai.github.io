@@ -24,12 +24,13 @@ Services
   * IEEE Transactions on Networking (ToN)
   * IEEE Journal on Selected Areas in Communications (JSAC)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  * IEEE Transactions on Mobile Computing
   * ACM European Conference on Computer Systems (EuroSys)
   * ACM Multimedia (MM)
   * ACM Asia-Paciﬁc Workshop on Networking (APNET)
 
 * **Program Committee Members**
-  * WCNC 2024, ICCC 2023
+  * WCNC 2025, WCNC 2024, ICCC 2023
 
 
 Selected Publications 
@@ -37,6 +38,8 @@ Selected Publications
 **<\#: corresponding author, \*:co-first author>**
 
 * ![Static Badge](https://img.shields.io/badge/NSDI_2025-34a853) Zhongjie Chen\*, **Qingkai Meng\***, ChonLam Lao, Yifan Liu, Fengyuan Ren, Minlan Yu, and Yang Zhou, “eTran: Extensible Kernel Transport with eBPF”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2025_
+
+* ![Static Badge](https://img.shields.io/badge/INFOCOM_2025-34a853) Zhongjie Chen, Yingchen Fan, Kun Qian, **Qingkai Meng**, Ran Shu, Xiaoyu Li, Yiran Zhang, Bo Wang, Wei Li, and Fengyuan Ren, “ScalaTap: Scalable Outbound Rate Limiting in Public Cloud”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2025_
 
 * ![Static Badge](https://img.shields.io/badge/INFOCOM_2024-34a853) **Qingkai Meng**, Shan Zhang, Zhiyuan Wang, Tao Tong, Chaolei Hu, Hongbin Luo, and Fengyuan Ren, “BCC: Re-architecting Congestion Control in DCNs”, _IEEE International Conference on Computer Communications  (**INFOCOM, CCF-A**), 2024_
 
