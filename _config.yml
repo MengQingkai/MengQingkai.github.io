@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qingkai Meng"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : "Beijing"
+  bio              : "特聘研究员，博士生导师"
+  location         : #"Beijing"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
