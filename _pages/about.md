@@ -37,7 +37,7 @@ Selected Publications
 ======
 **<\#: corresponding author, \*:co-first author>**
 * ![Static Badge](https://img.shields.io/badge/SIGCOMM_2025-34a853) **Qingkai Meng**, Hao Zheng, Zhenhui Zhang,
-ChonLam Lao, Chengyuan Huang, Baojia Li, Ziyuan Zhu, Hao Lu, Weizhen Dang, Zitong Lin, Weifeng Zhang, Lingfeng Liu, Yuanyuan Gong, Chunzhi He, Xiaoyuan Hu, Yinben Xia, Xiang Li, Zekun He, Yachen Wang, Xianneng Zou, Kun Yang, Gianni Antichi, Guihai Chen, Chen Tian, “A Datacenter Infrastructure for Large Language Model Training at Scale”, _ACM Special Interest Group on Data Communication (**SIGCOMM, CCF-A**), 2025_
+ChonLam Lao, Chengyuan Huang, Baojia Li, Ziyuan Zhu, Hao Lu, Weizhen Dang, Zitong Lin, Weifeng Zhang, Lingfeng Liu, Yuanyuan Gong, Chunzhi He, Xiaoyuan Hu, Yinben Xia, Xiang Li, Zekun He, Yachen Wang, Xianneng Zou, Kun Yang, Gianni Antichi, Guihai Chen, Chen Tian, “Astral: A Datacenter Infrastructure for Large Language Model Training at Scale”, _ACM Special Interest Group on Data Communication (**SIGCOMM, CCF-A**), 2025_
 
 
 * ![Static Badge](https://img.shields.io/badge/NSDI_2025-34a853) Zhongjie Chen, **Qingkai Meng**, ChonLam Lao, Yifan Liu, Fengyuan Ren, Minlan Yu, and Yang Zhou, “eTran: Extensible Kernel Transport with eBPF”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2025_
