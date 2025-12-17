@@ -19,8 +19,10 @@ Networking Stack
 
 Services 
 ======
+* **Journal Editorship**
+  * Area Editor, SIGCOMM CCR
   
-* **Program Committee**
+* **Organizing/Program Committee**
   * 2026: CoNEXT
   * 2025: SIGCOMM Workshop NAIC, CoNEXT Workshop NAIC (co-chair), WCNC
   * 2024: WCNC
