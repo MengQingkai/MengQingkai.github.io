@@ -20,7 +20,7 @@ Networking Stack
 Services 
 ======
 * **Journal Editorship**
-  * Area Editor, SIGCOMM CCR
+  * SIGCOMM CCR Area Editor
   
 * **Organizing/Program Committee**
   * 2026: CoNEXT
