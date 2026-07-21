@@ -40,6 +40,12 @@ Services
 Selected Publications 
 ======
 **<\#: corresponding author, \*:co-first author>**
+
+* ![Static Badge](https://img.shields.io/badge/SIGCOMM_2026-34a853) Zhaochen Zhang, Jiaqi Gao, Sheng Cheng, Peiwen Yu, Feiyang Xue, Chang Liu, Boliang Liu, Kun Liu, Yubin Li, Rui Li, Li Wang, Peirui Cao, **Qingkai Meng#**, Guihai Chen, Gang Lu, Binzhang Fu, Chen Tian, “ Anytest: Localizing the Root Cause of Hardware Transport Performance Anomalies”, _ACM Special Interest Group on Data Communication (**SIGCOMM, CCF-A**), 2026_
+
+* ![Static Badge](https://img.shields.io/badge/ASPLOS_2026-34a853) Yibo Xiao, Hao Zheng, Haifeng Sun, **Qingkai Meng#**, Jiong Duan, Xiaohe Hu, Rong Gu, Guihai Chen, Chen Tian, “Fine-grained and Non-intrusive LLM Training Monitoring via Microsecond-level Traffic Measurement”, _ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS, CCF-A**), 2026_
+
+
 * ![Static Badge](https://img.shields.io/badge/SIGCOMM_2025-34a853) **Qingkai Meng**, Hao Zheng, Zhenhui Zhang,
 ChonLam Lao, Chengyuan Huang, Baojia Li, Ziyuan Zhu, Hao Lu, Weizhen Dang, Zitong Lin, Weifeng Zhang, Lingfeng Liu, Yuanyuan Gong, Chunzhi He, Xiaoyuan Hu, Yinben Xia, Xiang Li, Zekun He, Yachen Wang, Xianneng Zou, Kun Yang, Gianni Antichi, Guihai Chen, Chen Tian, “Astral: A Datacenter Infrastructure for Large Language Model Training at Scale”, _ACM Special Interest Group on Data Communication (**SIGCOMM, CCF-A**), 2025_
 
