@@ -10,6 +10,8 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the School of Intelligent Software and Engineering at Nanjing University. Before that, I received my Ph.D. from Tsinghua University in June 2022, under the supervision of [Prof. Fengyuan Ren](https://www.cs.tsinghua.edu.cn/info/1126/3585.htm). From Sep. 2019 to Oct. 2020, I was a visiting student in the Department of Computer Sciences at the University of Wisconsin-Madison, under the supervision of [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/).
 
+I am always looking for PhD/Master/Undergrad students who are interested in networking and systems for ML. If you are interested in my research, feel free to send me an email. Although I may not have time to reply to all your emails, I do read all of them.
+
 Research Interests
 ======
 Data Center Network<br>
