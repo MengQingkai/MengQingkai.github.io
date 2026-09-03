@@ -25,7 +25,7 @@ Services
   * SIGCOMM CCR Area Editor
   
 * **Organizing/Program Committee**
-  * 2026: CoNEXT
+  * 2026: CoNEXT, APNET
   * 2025: SIGCOMM Workshop NAIC, CoNEXT Workshop NAIC (co-chair), WCNC
   * 2024: WCNC
 
@@ -42,6 +42,10 @@ Services
 Selected Publications 
 ======
 **<\#: corresponding author, \*:co-first author>**
+
+* ![Static Badge](https://img.shields.io/badge/NSDI_2027-34a853) Songyue Liu, Songyuan Bai, Qing Wang, **Qingkai Meng**, Kai Yan, Zijun Mei, Wanchun Dou, Guihai Chen, Fu Xiao, Chen Tian, “ns-GPU: Towards Fast Simulation for Large-Scale Networks with GPUs”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2027_
+
+* ![Static Badge](https://img.shields.io/badge/NSDI_2027-34a853) Chengyuan Huang, Rong Wen, Shuai Jin, Qingzheng Hou, Yahua Li, Kaiken Li, Shize Zhang, Enge Song, Bengbeng Xue, Donglin Lai, Jin Ke, Xiaoqing Sun, Jianyuan Lu, Song Yang, Xing Li, Zhigang Zong, Biao Lyu, Shunmin Zhu, Tian Pan, Xiaoliang Wang, Dehui Wei, **Qingkai Meng**, Peirui Cao, Keqiang He, Chen Tian, Guihai Chen, “A Decade Behind the Scenes: Evolving Layer-4 Load Balancers in Alibaba Cloud”, _USENIX Symposium on Networked Systems Design and Implementation (**NSDI, CCF-A**), 2027_
 
 * ![Static Badge](https://img.shields.io/badge/SIGCOMM_2026-34a853) Zhaochen Zhang, Jiaqi Gao, Sheng Cheng, Peiwen Yu, Feiyang Xue, Chang Liu, Boliang Liu, Kun Liu, Yubin Li, Rui Li, Li Wang, Peirui Cao, **Qingkai Meng#**, Guihai Chen, Gang Lu, Binzhang Fu, Chen Tian, “ Anytest: Localizing the Root Cause of Hardware Transport Performance Anomalies”, _ACM Special Interest Group on Data Communication (**SIGCOMM, CCF-A**), 2026_
 
